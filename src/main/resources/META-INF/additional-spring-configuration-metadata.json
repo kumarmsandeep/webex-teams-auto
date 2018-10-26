@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "loginInfo.fileName",
+    "type": "java.lang.String",
+    "description": "CSV file path for the list of logins"
+  },
+  {
+    "name": "gecko.driver.path",
+    "type": "java.lang.String",
+    "description": "Gecko driver full path including file name"
+  },
+  {
+    "name": "loginInfo.seperator",
+    "type": "java.lang.String",
+    "description": "CSV seperator"
+  }
+]}
